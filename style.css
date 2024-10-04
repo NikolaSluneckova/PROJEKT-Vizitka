@@ -20,6 +20,7 @@ p {
     padding: 30px;
     background: white;
     border-radius: 10px;
+    box-shadow: #b2bec3 5px 5px 10px;
 }
 .foto {
     width: 150px;
